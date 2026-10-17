@@ -22,6 +22,7 @@ They were loaded into MySQL as two tables: `coviddeaths` and `covidvaccinations`
 |---|---|
 | `project1.sql` | All queries for the analysis |
 | View section | `SELECT * FROM portfolioprojects.percentpopulationvaccinated;` – reads the saved view for later visualization |
+| `import_data.py` | Loads the Excel files into MySQL with pandas |
 
 ## What the queries cover
 
